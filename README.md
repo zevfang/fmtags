@@ -19,7 +19,7 @@ type Server struct {
 }
 ```
 
-```
+```shell
 $ gomodifytags -file demo.go -struct Server -add-tags json
 ```
 
