@@ -1,5 +1,7 @@
 ## fmtags
 
+![image](https://travis-ci.org/zevfang/fmtags.svg?branch=master)
+
 This is a golang formatting tools
 
 
